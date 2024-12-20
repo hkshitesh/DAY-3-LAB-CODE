@@ -1,0 +1,18 @@
+{
+    "directories": {
+        "data_directory": "./data",
+        "report_directory": "./new_reports"
+    },
+    "email": {
+        "sender_email": "hkshitesh@gmail.com",
+        "recipient_email": "hiteshupes22@gmail.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "smtp_username": "hkshitesh@gmail.com",
+        "smtp_password": "sljj ysjc ooee tpzx"
+    },
+    "keywords": {
+        "positive_words": ["good", "great", "excellent", "positive", "happy"],
+        "negative_words": ["bad", "poor", "negative", "sad", "angry"]
+    }
+}
