@@ -1,0 +1,8 @@
+bad
+good
+happy
+sad
+enjoy
+excellent
+negative
+positive
