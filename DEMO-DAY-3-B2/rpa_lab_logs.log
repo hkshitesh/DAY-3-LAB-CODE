@@ -1,0 +1,27 @@
+2024-12-20 11:34:48,678 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:34:48,679 - RPA Logger - ERROR - Config file not found. Ensure the file is in the correct location.
+2024-12-20 11:36:32,270 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:36:32,271 - RPA Logger - INFO - Config file loaded successfully.
+2024-12-20 11:40:27,931 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:40:27,932 - RPA Logger - INFO - Config file loaded successfully.
+
+2024-12-20 11:41:00,778 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:41:00,779 - RPA Logger - INFO - Config file loaded successfully.
+2024-12-20 11:41:00,780 - RPA Logger - INFO - Reading data from file: data1.txt
+2024-12-20 11:41:00,780 - RPA Logger - ERROR - Data file not found: data1.txt
+2024-12-20 11:41:30,447 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:41:30,448 - RPA Logger - INFO - Config file loaded successfully.
+2024-12-20 11:41:30,448 - RPA Logger - INFO - Reading data from file: data.txt
+2024-12-20 11:41:30,449 - RPA Logger - INFO - Successfully processed data. Total sum: 60
+2024-12-20 11:44:43,751 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:44:43,751 - RPA Logger - INFO - Config file loaded successfully.
+2024-12-20 11:44:43,752 - RPA Logger - INFO - Reading data from file: data.txt
+2024-12-20 11:44:43,752 - RPA Logger - INFO - Successfully processed data. Total sum: 60
+2024-12-20 11:44:43,753 - RPA Logger - INFO - Preparing to send email notification.
+2024-12-20 11:44:46,045 - RPA Logger - ERROR - Failed to authenticate email server. Check login credentials.
+2024-12-20 11:46:59,119 - RPA Logger - INFO - Attempting to load config file: config.json
+2024-12-20 11:46:59,119 - RPA Logger - INFO - Config file loaded successfully.
+2024-12-20 11:46:59,120 - RPA Logger - INFO - Reading data from file: data.txt
+2024-12-20 11:46:59,121 - RPA Logger - INFO - Successfully processed data. Total sum: 60
+2024-12-20 11:46:59,122 - RPA Logger - INFO - Preparing to send email notification.
+2024-12-20 11:47:02,650 - RPA Logger - INFO - Email successfully sent to hiteshupes@gmail.com
